@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{02320998-4A18-474A-95DF-B74B420E9C6E}|PR5_4\\PR5_4.vcxproj|D:\\student\\PR5_4\\PR5_4\\pr5_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{02320998-4A18-474A-95DF-B74B420E9C6E}|PR5_4\\PR5_4.vcxproj|solutionrelative:PR5_4\\pr5_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1E85D6-063A-CD4B-AF9B-EAF32F32D9FE}|UnitTest5_4\\UnitTest5_4.vcxproj|D:\\student\\PR5_4\\UnitTest5_4\\UnitTest5_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B1E85D6-063A-CD4B-AF9B-EAF32F32D9FE}|UnitTest5_4\\UnitTest5_4.vcxproj|solutionrelative:UnitTest5_4\\UnitTest5_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest5_4.cpp",
+              "DocumentMoniker": "D:\\student\\PR5_4\\UnitTest5_4\\UnitTest5_4.cpp",
+              "RelativeDocumentMoniker": "UnitTest5_4\\UnitTest5_4.cpp",
+              "ToolTip": "D:\\student\\PR5_4\\UnitTest5_4\\UnitTest5_4.cpp",
+              "RelativeToolTip": "UnitTest5_4\\UnitTest5_4.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-17T11:02:20.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "pr5_4.cpp",
               "DocumentMoniker": "D:\\student\\PR5_4\\PR5_4\\pr5_4.cpp",
               "RelativeDocumentMoniker": "PR5_4\\pr5_4.cpp",
               "ToolTip": "D:\\student\\PR5_4\\PR5_4\\pr5_4.cpp",
               "RelativeToolTip": "PR5_4\\pr5_4.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-15T09:48:43.606Z",
               "EditorCaption": ""
